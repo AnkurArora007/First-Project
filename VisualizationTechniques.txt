@@ -1,0 +1,26 @@
+Which graphical tool to use :-
+
+Univariate
+
+1. Bar graph 
+- nominal data with less categories
+- plotting total sale by month
+
+2. Line graph 
+- categorical data with more categories
+- plotting the number of students versus the marks obtained (1-100)
+
+3. Histogram
+- data with intervals
+- plotting total number of people by their age group
+
+Bivariate
+
+1. Scatter plot
+- works well with small number of observations
+- for large data, downsample the data to effetively use scatter plot
+
+2. Hexplot
+- works well even with large data
+- creates clusters where more data is concentrated
+
